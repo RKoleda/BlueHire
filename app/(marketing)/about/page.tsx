@@ -125,10 +125,11 @@ export default function AboutPage() {
                 <div className="w-24 h-24 bg-secondary rounded-full mx-auto flex items-center justify-center">
                   <Users className="h-12 w-12 text-primary" />
                 </div>
-                <h3 className="text-lg font-semibold">Sarah Müller</h3>
-                <p className="text-sm text-primary font-medium">Geschäftsführerin</p>
+                <h3 className="text-lg font-semibold">Iwan Nestertschuk</h3>
+                <p className="text-sm text-primary font-medium">Geschäftsführer</p>
                 <p className="text-sm text-muted-foreground">
-                  15 Jahre Erfahrung im Executive Search und Personalberatung
+                  Iwan Nestertschuk verbindet Branchenkenntnis aus dem Mittelstand mit Einblicken in internationale Strukturen wie bei der Meyer Werft. 
+                  Sein Fokus: Unternehmen zuverlässig bei der Gewinnung von Top-Talenten unterstützen.
                 </p>
               </CardContent>
             </Card>
@@ -138,9 +139,9 @@ export default function AboutPage() {
                 <div className="w-24 h-24 bg-secondary rounded-full mx-auto flex items-center justify-center">
                   <Users className="h-12 w-12 text-primary" />
                 </div>
-                <h3 className="text-lg font-semibold">Michael Schmidt</h3>
-                <p className="text-sm text-primary font-medium">Senior Recruiter</p>
-                <p className="text-sm text-muted-foreground">Spezialist für technische Fachkräfte und IT-Positionen</p>
+                <h3 className="text-lg font-semibold">Rudi Koleda</h3>
+                <p className="text-sm text-primary font-medium">IT & Business Specialist</p>
+                <p className="text-sm text-muted-foreground">Kaufmännisches Fundament kombiniert mit IT-Expertise und Führungserfahrung in Portugal und Irland.</p>
               </CardContent>
             </Card>
 
@@ -149,7 +150,7 @@ export default function AboutPage() {
                 <div className="w-24 h-24 bg-secondary rounded-full mx-auto flex items-center justify-center">
                   <Users className="h-12 w-12 text-primary" />
                 </div>
-                <h3 className="text-lg font-semibold">Anna Weber</h3>
+                <h3 className="text-lg font-semibold">Veronika Nestertschuk</h3>
                 <p className="text-sm text-primary font-medium">Recruiting Consultant</p>
                 <p className="text-sm text-muted-foreground">
                   Expertin für kaufmännische und administrative Positionen
