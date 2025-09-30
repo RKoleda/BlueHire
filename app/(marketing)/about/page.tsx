@@ -128,7 +128,7 @@ export default function AboutPage() {
                 <h3 className="text-lg font-semibold">Iwan Nestertschuk</h3>
                 <p className="text-sm text-primary font-medium">Geschäftsführer</p>
                 <p className="text-sm text-muted-foreground">
-                  Iwan Nestertschuk verbindet Branchenkenntnis aus dem Mittelstand mit Einblicken in internationale Strukturen wie bei der Meyer Werft. 
+                  Iwan Nestertschuk verbindet Branchenkenntnis aus dem Mittelstand mit Einblicken in internationale Strukturen bei Großkonzernen. 
                   Sein Fokus: Unternehmen zuverlässig bei der Gewinnung von Top-Talenten unterstützen.
                 </p>
               </CardContent>
