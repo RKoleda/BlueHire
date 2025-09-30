@@ -2,6 +2,7 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent } from "@/components/ui/card"
 import { Heart, Shield, Zap, Users } from "lucide-react"
 import Link from "next/link"
+import Image from "next/image"
 
 export default function AboutPage() {
   return (
@@ -41,10 +42,14 @@ export default function AboutPage() {
                   <Link href="/contact">Jetzt kennenlernen</Link>
                 </Button>
               </div>
-              <div className="relative">
-                <div className="aspect-square bg-secondary/30 rounded-2xl flex items-center justify-center">
-                  <Users className="h-24 w-24 text-primary" />
-                </div>
+              <div className="relative flex justify-center">
+                <Image
+                  src="/handshake.png"
+                  alt="Partnerschaft bei BlueHire"
+                  width={500}
+                  height={400}
+                  className="rounded-xl shadow-lg"
+                />
               </div>
             </div>
           </div>
@@ -141,8 +146,10 @@ export default function AboutPage() {
                 </div>
                 <h3 className="text-lg font-semibold">Rudi Koleda</h3>
                 <p className="text-sm text-primary font-medium">IT & Business Specialist</p>
-                <p className="text-sm text-muted-foreground">Kaufmännisches Fundament und IT-Expertise vereint: Erfahrung im Ingenieurbüro, 
-                  als Tech-Teamlead in Portugal und in der IT in Irland.</p>
+                <p className="text-sm text-muted-foreground">
+                  Kaufmännisches Fundament und IT-Expertise vereint: Erfahrung im Ingenieurbüro, 
+                  als Tech-Teamlead in Portugal und in der IT in Irland.
+                </p>
               </CardContent>
             </Card>
 
