@@ -23,12 +23,12 @@ export default function HomePage() {
               <div className="flex flex-col sm:flex-row gap-4">
                 <Button size="lg" asChild className="text-lg px-8 py-6">
                   <Link href="/fragebogen">
-                    Jetzt starten
+                    Kostenlose Anfrage 
                     <ArrowRight className="ml-2 h-5 w-5" />
                   </Link>
                 </Button>
                 <Button size="lg" variant="secondary" asChild className="text-lg px-8 py-6">
-                  <Link href="/contact">Unsere Services</Link>
+                  <Link href="/contact">Kostenloses Erstgespräch</Link>
                 </Button>
               </div>
             </div>

@@ -141,7 +141,8 @@ export default function AboutPage() {
                 </div>
                 <h3 className="text-lg font-semibold">Rudi Koleda</h3>
                 <p className="text-sm text-primary font-medium">IT & Business Specialist</p>
-                <p className="text-sm text-muted-foreground">Kaufmännisches Fundament kombiniert mit IT-Expertise und Führungserfahrung in Portugal und Irland.</p>
+                <p className="text-sm text-muted-foreground">Kaufmännisches Fundament und IT-Expertise vereint: Erfahrung im Ingenieurbüro, 
+                  als Tech-Teamlead in Portugal und in der IT in Irland.</p>
               </CardContent>
             </Card>
 
@@ -153,7 +154,7 @@ export default function AboutPage() {
                 <h3 className="text-lg font-semibold">Veronika Nestertschuk</h3>
                 <p className="text-sm text-primary font-medium">Recruiting Consultant</p>
                 <p className="text-sm text-muted-foreground">
-                  Expertin für kaufmännische und administrative Positionen
+                  Verbindet juristische Ausbildung mit Fachwissen in Finanz- und Lohnbuchhaltung sowie Erfahrung in Jahresabschluss und Steuerwesen.
                 </p>
               </CardContent>
             </Card>
